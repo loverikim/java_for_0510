@@ -31,8 +31,7 @@ public class WhileTest01 {
 		}while(false);
 		
 		
-		// continue 다음 단계로 넘어가지 않고 조건식으로 넘어감.
-		
+		// continue 다음 단계로 넘어가지 않고 조건식으로 넘어감.		
 		for(int k=1;k<=10;k++) {
 			if(k%3==0) {
 				continue;
